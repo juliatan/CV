@@ -17,7 +17,7 @@ Recent hobby coding projects
 
 Bionic Julia (my [personal website]) is created & maintained with Ruby (ERB), SASS and Middleman. Deployed via Netlify.
 
-I also enjoy playing around with different tools to try to automate tasks whilst learning new technologies. You can find a list of things I've made [here](https://bionicjulia.com/coding).
+I also enjoy playing around with different tools to try to automate tasks whilst learning new technologies. You can find a list of things I've made [here](https://bionicjulia.com/pages/coding).
 
 
 Web development experience
