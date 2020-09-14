@@ -11,11 +11,11 @@ To find out more about me as a person, check out my [personal website].
 Recent hobby coding projects
 ----------------------------
 
-| [Movie Browser] | [Burger Builder] |
-|:------------ |:----------- |
-| Practice project written from scratch to practice along to the "Harvard CS50 Mobile Apps React Native" course. Uses React Native, Expo and the Open Movie Database API. | Code-along project to the "React - Complete Guide" course. Uses React, React Router & Redux (WIP). |
+| [Movie Browser] | [Burger Builder] | [LinkedIn Puppeteer Scraper] |
+|:------------ |:----------- | :----------- |
+| Practice project written from scratch to practice along to the "Harvard CS50 Mobile Apps React Native" course. Uses React Native, Expo and the Open Movie Database API. | Code-along project to the "React - Complete Guide" course. Uses React, React Router, Redux and Firebase (WIP). | Automated LinkedIn scraping for sales lead generation using Javascript and Puppeteer. Date from LinkedIn and Cognism API. |
 
-Bionic Julia (my [personal website]) is created & maintained with Middleman, and deployed via Netlify.
+Bionic Julia (my [personal website]) is created & maintained with Ruby (ERB), SASS and Middleman. Deployed via Netlify.
 
 I also enjoy playing around with different tools to try to automate tasks whilst learning new technologies. You can find a list of things I've made [here](https://bionicjulia.com/coding).
 
@@ -43,11 +43,11 @@ I currently remain on the board of directors, but am now searching for my next c
   - Angular 1 (a bit of 2)
   - React 16
   - Vue 2.6 (limited)
-  - PhantomJS
   - Sidekiq worker
   - Metabase (data reporting for internal team use)
   - Integrations with Slack and Stripe payments
   - Creating scrapers
+  - YouTube and Twitter API
   - Docker (experience using, not setting up)
 
 
@@ -146,6 +146,7 @@ Contact me
 
   [Movie Browser]:https://github.com/juliatan/movie-browser
   [Burger Builder]:https://github.com/juliatan/burger-builder
+  [LinkedIn Puppeteer Scraper]:https://github.com/juliatan/linkedin-scraper
   [Strides]:https://github.com/juliatan/racefinder
   [Instagram]:https://github.com/juliatan/instagram
   [Rock Paper Scissors Lizard Spock]:https://github.com/juliatan/rockpaperscissors
