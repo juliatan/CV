@@ -13,7 +13,7 @@ Recent hobby coding projects
 
 | [Movie Browser] | [Burger Builder] | [LinkedIn Puppeteer Scraper] |
 |:------------ |:----------- | :----------- |
-| Practice project written from scratch to practice along to the "Harvard CS50 Mobile Apps React Native" course. Uses React Native, Expo and the Open Movie Database API. | Code-along project to the "React - Complete Guide" course. Uses React, React Router, Redux and Firebase (WIP). | Automated LinkedIn scraping for sales lead generation using Javascript and Puppeteer. Date from LinkedIn and Cognism API. |
+| Practice project written from scratch to practice along to the "Harvard CS50 Mobile Apps React Native" course. Uses React Native, Expo and the Open Movie Database API. | Code-along project to the "React - Complete Guide" course. Uses React, React Router, Redux and Firebase (WIP). | Automated LinkedIn scraping for sales lead generation using Javascript and Puppeteer. Data from LinkedIn and Cognism API. |
 
 Bionic Julia (my [personal website]) is created & maintained with Ruby (ERB), SASS and Middleman. Deployed via Netlify.
 
