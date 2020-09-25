@@ -11,9 +11,9 @@ To find out more about me as a person, check out my [personal website].
 Recent hobby coding projects
 ----------------------------
 
-| [Movie Browser] | [Burger Builder] | [LinkedIn Puppeteer Scraper] |
+| [Movie Browser] | [Burger Builder] | [COVID-19 Dashboard] |
 |:------------ |:----------- | :----------- |
-| Practice project written from scratch to practice along to the "Harvard CS50 Mobile Apps React Native" course. Uses React Native, Expo and the Open Movie Database API. | Code-along project to the "React - Complete Guide" course. Uses React, React Router, Redux and Firebase (WIP). | Automated LinkedIn scraping for sales lead generation using Javascript and Puppeteer. Data from LinkedIn and Cognism API. |
+| My playground project to consolidate what I learn from the "Harvard CS50 Mobile Apps React Native" course. Uses React Native, Expo and the Open Movie Database API. | WIP playground project for me to practice React and advanced React-related tools like React Router, Redux and Firebase. | COVID-19 dashboard written in React, utilising Leaflet mapping. |
 
 Bionic Julia (my [personal website]) is created & maintained with Ruby (ERB), SASS and Middleman. Deployed via Netlify.
 
@@ -146,14 +146,14 @@ Contact me
 
   [Movie Browser]:https://github.com/juliatan/movie-browser
   [Burger Builder]:https://github.com/juliatan/burger-builder
-  [LinkedIn Puppeteer Scraper]:https://github.com/juliatan/linkedin-scraper
+  [COVID-19 Dashboard]:https://github.com/juliatan/covid-tracker
   [Strides]:https://github.com/juliatan/racefinder
   [Instagram]:https://github.com/juliatan/instagram
   [Rock Paper Scissors Lizard Spock]:https://github.com/juliatan/rockpaperscissors
 
   [Makers Academy]:https://makers.tech/
   
-  [hello@bionicjulia.com]: mailto:hello@bionicjulia.co
+  [hello@bionicjulia.com]: mailto:hello@bionicjulia.com
   [Personal website]: https://bionicjulia.com
   [Github]:https://github.com/juliatan
   [LinkedIn]:https://linkedin.com/in/juliatan
