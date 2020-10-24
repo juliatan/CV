@@ -3,7 +3,7 @@ Julia Tan
 
 Having realised that computers and the internet are infiltrating into ever increasing aspects of our daily lives, I decided to change career paths from investment banking, to learn how to code and co-found a tech startup in 2014.
 
-Since the start of 2020, I have sold and exited my startup [Peg], started a new company [Robin], aiming to tackle food waste and climate change, and (sadly) ended my new company Robin after 6 months.
+Since the start of 2020, I have sold and exited my startup [Peg], started a new company Robin, aiming to tackle food waste and climate change, and (sadly) ended my new company Robin after 6 months.
 
 Examples of my coding work can be found on my [Github].
 To find out more about me as a person, check out my [personal website].
@@ -130,7 +130,7 @@ Interests
 - Clean code with practical uses.
 - Continuous, lifelong learning.
 - Learning to play the drums.
-- Health, fitness & Nutrition.
+- Health, fitness & nutrition.
 - Running marathons.
 - Travel (and the great outdoors).
 - Gaming.
@@ -157,6 +157,4 @@ Contact me
   [Personal website]: https://bionicjulia.com
   [Github]:https://github.com/juliatan
   [LinkedIn]:https://linkedin.com/in/juliatan
-  [Twitter]:http://twitter.com/bionicjulia
   [Peg]:https://peg.co
-  [Robin]:https://heyrobin.co
